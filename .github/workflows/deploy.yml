@@ -34,4 +34,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          # Optional: Use this if you're deploying from a subfolder (e.g., "vite.config.ts" has base: '/EasyPeasyApp/')
